@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(201,22): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(288,22): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(359,21): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(431,21): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(504,21): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(616,23): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(711,23): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(811,23): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(722,10): warning C4101: 'temp_i' :참조되지 않은 지역 변수입니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(1002,23): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(945,8): warning C4101: 'temp_i' :참조되지 않은 지역 변수입니다.
+C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\FP_PP_2_20181593_계인혜\main.cpp(1091,21): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FP_PP_2_20181593_계인혜.vcxproj -> C:\Users\sadno\Desktop\파일처리\FP_PP_2_20181593_계인혜\Debug\FP_PP_2_20181593_계인혜.exe
